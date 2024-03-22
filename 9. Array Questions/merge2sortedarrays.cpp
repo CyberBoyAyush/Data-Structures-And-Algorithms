@@ -2,6 +2,8 @@
 #include<vector>
 using namespace std;
 
+// For more optimal solution (https://www.youtube.com/watch?v=n7uwj04E0I4)
+
 void merge(int arr1[], int n, int arr2[], int m, int arr3[]) {
 
     int i = 0, j = 0;
