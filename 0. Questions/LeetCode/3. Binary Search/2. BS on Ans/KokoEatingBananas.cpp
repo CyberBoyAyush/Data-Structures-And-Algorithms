@@ -1,7 +1,7 @@
 // Koko Eating Bananas
 // https://leetcode.com/problems/koko-eating-bananas/
 // https://leetcode.com/problems/koko-eating-bananas/discuss/5036998/C%2B%2B-Code-Binary-Search-Easy-Explanation
-
+#include<bits/stdc++.h>
 #include<vector>
 #include<climits>
 #include<math.h>
