@@ -138,6 +138,50 @@ Node* insertBeforeHead(Node* &head, int val){
     return newHead;
 }
 
+Node* insertBeforeTail(Node* head, int val){
+    if(head->next==nullptr){
+        return insertBeforeHead(head,val);
+    }
+    Node* tail = head;
+    while(tail->next!=nullptr){
+        tail=tail->next;
+    }
+    Node* prevv = tail->prev;
+    Node* newNode = new Node(val,tail,prevv);
+    prevv->next = newNode;
+    tail->prev = newNode;
+
+    return head;
+}
+
+Node* inserBeforeKthNode(Node* &head,int val ,int k){
+    if(k==1){
+        return insertBeforeHead(head,val);
+    }
+    Node* temp = head;
+    int cnt = 0;
+    while(temp!=nullptr){
+        cnt++;
+        if(cnt==k){
+            break;
+        }
+        temp=temp->next;
+    }
+    Node* prev = temp->prev;
+    Node* newNode = new Node(val,temp,prev);
+    prev->next = newNode;
+    temp->prev = newNode;
+
+    return head;
+}
+
+void insertBeforeNode(Node* node,int val){
+    Node* prev = node->prev;
+    Node* newNode= new Node(val,node,prev);
+    prev->next = newNode;
+    node->prev = newNode;
+}
+
 int main()
 {
     vector<int> arr = {2, 3, 4, 5, 6};
@@ -163,5 +207,17 @@ int main()
       // Insert Before Head
       head = insertBeforeHead(head,10);
       printDLL(head);
+
+     // Insert Before Tail
+     head = insertBeforeTail(head,100);
+     printDLL(head);
+
+     // Insert before kth node
+     head = inserBeforeKthNode(head,999,3);
+     printDLL(head);
+
+     // Insert before Node;
+     insertBeforeNode(head->next,10000);
+     printDLL(head);
 
 }
