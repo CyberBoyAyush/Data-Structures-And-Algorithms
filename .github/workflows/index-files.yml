@@ -26,12 +26,17 @@ jobs:
         run: |
           python generate_index.py
 
+      - name: Debug Environment Variables
+        run: |
+          env
+        shell: bash
+
       - name: Commit and push changes
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add index.txt
           git commit -m 'Update file index'
-          git push https://${{ secrets.PAT_TOKEN }}@github.com/cyberboyayush/Data-Structures-And-Algorithms.git
+          git push https://cyberboyayush:${{ secrets.PAT_TOKEN }}@github.com/cyberboyayush/Data-Structures-And-Algorithms.git main
