@@ -1,4 +1,4 @@
-// reverse a char arr
+// reverse a char array
 #include<bits/stdc++.h>
 using namespace std;
 
