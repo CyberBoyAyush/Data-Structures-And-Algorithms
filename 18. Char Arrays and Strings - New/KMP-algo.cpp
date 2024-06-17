@@ -51,7 +51,7 @@ class Solution
                     j = LPS[j-1]; // it is possible ki pat 1 see jada baar present ho toh dubara check kro agar txt string bachi hai toh
                 }
                 
-                else if(pat[j] != txt[i]){
+                else if(i < N && pat[j] != txt[i]){
                     if(j!=0){
                         j = LPS[j-1]; // j pointer ko pichle wale lps pe khiskha do
                     }
