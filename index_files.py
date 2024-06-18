@@ -60,9 +60,9 @@ def get_extra_info():
                 line = line.strip()
                 lines += 1
                 char += len(line)
-    return f"- Total files: `{files:,}`\n- Total lines: `{lines:,}`\n- Total characters: `{char:,}`\n\n"
+    return f"\n- Total files: `{files:,}`\n- Total lines: `{lines:,}`\n- Total characters: `{char:,}`\n"
 
 if __name__ == "__main__":
     get_name_and_path()
     with open("README.md", "w", encoding="utf-8") as f:
-        f.write(base + get_extra_info() + markup)
+        f.write(base + get_extra_info() + "\n" + markup)
