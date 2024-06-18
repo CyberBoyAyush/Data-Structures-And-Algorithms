@@ -1,52 +1,81 @@
+# This is for generating the README file
+
+import typing as t
 import os
+import datetime
+import pathlib
 
-def generate_file_index(root_dir):
-    file_tree = {}
-    for dirpath, _, filenames in os.walk(root_dir):
-        rel_dir = os.path.relpath(dirpath, root_dir)
-        if rel_dir == ".":
-            rel_dir = ""
-        for filename in filenames:
-            if filename != 'README.md':  # Exclude the README itself
-                file_path = os.path.join(rel_dir, filename)
-                dirs = rel_dir.split(os.sep) if rel_dir else []
-                node = file_tree
-                for d in dirs:
-                    if d not in node:
-                        node[d] = {}
-                    node = node[d]
-                node[filename] = file_path
-    return file_tree
+now = datetime.datetime.now()
+last_updated = now.strftime("%d %b'%y")
 
-def render_file_tree(file_tree, base_path=""):
-    md_lines = []
-    for key, value in sorted(file_tree.items()):
-        if isinstance(value, dict):
-            md_lines.append(f'<details><summary>{key}</summary>')
-            md_lines.append(render_file_tree(value, base_path + key + '/'))
-            md_lines.append('</details>')
+base = f"""# 🍵 Some basic C++ programs
+
+### These are some programs I make while I learn C++.
+`Last Updated: {last_updated}`
+
+"""
+extra = ""
+markup = "### List of all programs:\n"
+done_levels = []
+
+def get_filename(folder: str) -> str:
+    return " ".join([x.capitalize() for x in folder.split("_")[1:]])
+
+def get_sorted_files(folder: t.Optional[str]):
+    """This sorts the inner files in ascending order"""
+    files = os.listdir(folder)
+    files = [x for x in files if x not in [".git", "README.md", "readme_generator.py", ".gitignore", ".vscode"]]
+    files = [x for x in files if not x.endswith(".exe")]
+    if folder is not None and all(x.split("_")[0].isdigit() for x in files):
+        files = sorted(files, key=lambda x: int(x.split("_")[0]))
+    elif folder is None:
+        files = sorted(files, key=lambda x: int(x.split("_")[0]))
+
+    return files
+
+def get_name_and_path(folder: t.Optional[str] = None, level: int = 0) -> None:
+    global markup
+    
+    for file in get_sorted_files(folder):
+        if folder is None:
+            filepath = file
         else:
-            md_lines.append(f'- [{key}]({base_path + key})')
-    return '\n'.join(md_lines)
+            filepath = os.path.join(folder, file)
 
-def update_readme(file_tree, readme_path='README.md'):
-    with open(readme_path, 'r') as file:
-        lines = file.readlines()
+        if folder and "\\" in folder:
+            folder = folder.split("\\")[-1]
 
-    start_marker = '<!-- FILE_INDEX_START -->'
-    end_marker = '<!-- FILE_INDEX_END -->'
+        filename = get_filename(folder or file)
+        # print(folder, filename, file)
+        if file.endswith(".cpp"):
+            filepath = filepath.replace("\\", "/")
+            markup += f"{level * '  '}- [{filename}]({filepath})\n"
+    
+        if os.path.isdir(filepath):
+            # print(folder)
+            if folder not in done_levels and level != 0:
+                markup += f"{level * '  '}- {filename}\n"
+                done_levels.append(folder)
+            get_name_and_path(filepath, level + 1)
+            continue
 
-    start_index = next((i for i, line in enumerate(lines) if start_marker in line), None)
-    end_index = next((i for i, line in enumerate(lines) if end_marker in line), None)
+def get_extra_info():
+    path = pathlib.Path('./')
+    lines = 0
+    files = 0
+    char = 0
+    for item in path.rglob('*.cpp'):
+        files += 1
 
-    if start_index is not None and end_index is not None:
-        file_tree_md = render_file_tree(file_tree)
-        lines = lines[:start_index + 1] + [file_tree_md + '\n'] + lines[end_index:]
+        with item.open() as of:
+            for line in of.readlines():
+                line = line.strip()
+                lines += 1
+                char += len(line)
 
-        with open(readme_path, 'w') as file:
-            file.writelines(lines)
+    return f"- Total files: `{files:,}`\n- Total lines: `{lines:,}`\n- Total characters: `{char:,}`\n\n"
 
 if __name__ == "__main__":
-    root_directory = '.'
-    file_tree = generate_file_index(root_directory)
-    update_readme(file_tree)
+    get_name_and_path()
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(base + get_extra_info() + markup)
