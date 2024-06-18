@@ -3,4 +3,299 @@
 ## File Index
 
 <!-- FILE_INDEX_START -->
+- Timestamp.txt.txt
+- index_files.py
+- .gitignore
+- 9. Array Questions/reverse_array.cpp
+- 9. Array Questions/merge2sortedarrays.cpp
+- 15. Recursion/recursion_12.cpp
+- 15. Recursion/recursion_13.cpp
+- 15. Recursion/recursion_10.cpp
+- 15. Recursion/recursion_5.cpp
+- 15. Recursion/recursion_3.cpp
+- 15. Recursion/recursion_6.cpp
+- 15. Recursion/recursion_8_linearsearch.cpp
+- 15. Recursion/recursion_4.cpp
+- 15. Recursion/recursion_9_binarysearch.cpp
+- 15. Recursion/recursion_2.cpp
+- 15. Recursion/recursion_11.cpp
+- 15. Recursion/quick_sort.cpp
+- 15. Recursion/recursiopn_7.cpp
+- 15. Recursion/merge_sort.cpp
+- 15. Recursion/recursion_14_bubblesort.cpp
+- 15. Recursion/recursion_1.cpp
+- 2. Conditions And Loops/while-loop_4.cpp
+- 2. Conditions And Loops/while-loop_3.cpp
+- 2. Conditions And Loops/while-loop_2.cpp
+- 2. Conditions And Loops/if-else_3.cpp
+- 2. Conditions And Loops/while-loop_1.cpp
+- 2. Conditions And Loops/is-else_2.cpp
+- 2. Conditions And Loops/if-else_4.cpp
+- 2. Conditions And Loops/if-else.cpp
+- 19. Stacks/stacks_LL.cpp
+- 19. Stacks/stacks_arr.cpp
+- 19. Stacks/getNSL.cpp
+- 19. Stacks/NStackInArr.cpp
+- 19. Stacks/gteNSR.cpp
+- 10. Char Arrays and Strings/char_6.cpp
+- 10. Char Arrays and Strings/char_2.cpp
+- 10. Char Arrays and Strings/char_3.cpp
+- 10. Char Arrays and Strings/char_4.cpp
+- 10. Char Arrays and Strings/char_1.cpp
+- 18. Char Arrays and Strings - New/allupeercase.cpp
+- 18. Char Arrays and Strings - New/char_arr_1.cpp
+- 18. Char Arrays and Strings - New/lenofchararr.cpp
+- 18. Char Arrays and Strings - New/checkpalindrome.cpp
+- 18. Char Arrays and Strings - New/KMP-algo.cpp
+- 18. Char Arrays and Strings - New/reverseachararr.cpp
+- 18. Char Arrays and Strings - New/insertspace.cpp
+- 5. Bits/binary-to-decimal.cpp
+- 5. Bits/decimal-to-binary.cpp
+- 12 . Hashing/hashing_1.cpp
+- 12 . Hashing/hashmaps_1.cpp
+- 12 . Hashing/hasing_2.cpp
+- .vscode/settings.json
+- .vscode/c_cpp_properties.json
+- 17. Linked List/LL_2.cpp
+- 17. Linked List/LL_1.cpp
+- 17. Linked List/DLL_1.cpp
+- 17. Linked List/add_1.cpp
+- 6. Switch And Functions/function_5.cpp
+- 6. Switch And Functions/switch_2.cpp
+- 6. Switch And Functions/function_1.cpp
+- 6. Switch And Functions/function_6.cpp
+- 6. Switch And Functions/switch_1.cpp
+- 6. Switch And Functions/function_4.cpp
+- 6. Switch And Functions/function_2.cpp
+- 6. Switch And Functions/function_3.cpp
+- 6. Switch And Functions/switch_3.cpp
+- 1. Basics, Operators and Variables/variables.cpp
+- 1. Basics, Operators and Variables/operators.cpp
+- 1. Basics, Operators and Variables/hello.cpp
+- 1. Basics, Operators and Variables/typecasting.cpp
+- 7. Arrays/arrays_6.cpp
+- 7. Arrays/arrays_4.cpp
+- 7. Arrays/aggressive_cows.cpp
+- 7. Arrays/pivot_element_2.cpp
+- 7. Arrays/linear_search.cpp
+- 7. Arrays/first_last_occurence.cpp
+- 7. Arrays/arrays_5.cpp
+- 7. Arrays/book_allocation.cpp
+- 7. Arrays/arrays_1.cpp
+- 7. Arrays/swapalternate.cpp
+- 7. Arrays/arrays_2.cpp
+- 7. Arrays/pivot_element_1.cpp
+- 7. Arrays/painter_partition.cpp
+- 7. Arrays/selection_sort_1.cpp
+- 7. Arrays/reversearray.cpp
+- 7. Arrays/bubble_sort_1.cpp
+- 7. Arrays/zerosandone.cpp
+- 7. Arrays/binary_search_1.cpp
+- 7. Arrays/bubble_sort_2.cpp
+- 7. Arrays/insertion_sort_1.cpp
+- 7. Arrays/arrays_3.cpp
+- 7. Arrays/insertion_sort_2.cpp
+- 16. OOPS/oops_2_encapsulation.cpp
+- 16. OOPS/oops_3_inheritance.cpp
+- 16. OOPS/oops_1.cpp
+- 14 . Reference Variable And Memory/dynamic_1.cpp
+- 14 . Reference Variable And Memory/inlinefunction.cpp
+- 14 . Reference Variable And Memory/dyanmic_3.cpp
+- 14 . Reference Variable And Memory/ref_1.cpp
+- 14 . Reference Variable And Memory/macros.cpp
+- 14 . Reference Variable And Memory/dyanmic_2.cpp
+- 14 . Reference Variable And Memory/ref_2.cpp
+- 14 . Reference Variable And Memory/default_argument.cpp
+- 13 . Pointers/ptr_1.cpp
+- 13 . Pointers/ptr_functions_1.cpp
+- 13 . Pointers/ptr_arrays.cpp
+- 13 . Pointers/ptr_char.cpp
+- 13 . Pointers/ptr_functioons_2.cpp
+- 13 . Pointers/doubleptr_1.cpp
+- 4. For Loops/for-loops_4.cpp
+- 4. For Loops/for-loops_1.cpp
+- 4. For Loops/for-loops_2.cpp
+- 4. For Loops/for-loops_3.cpp
+- 3. Patterns/patterns_10.cpp
+- 3. Patterns/patterns_5.CPP
+- 3. Patterns/patterns_17.cpp
+- 3. Patterns/patterns_21.cpp
+- 3. Patterns/pattern_15.cpp
+- 3. Patterns/patterns_2.cpp
+- 3. Patterns/patterns_9.cpp
+- 3. Patterns/patterns_14.cpp
+- 3. Patterns/patterns_7.cpp
+- 3. Patterns/patterns_6.cpp
+- 3. Patterns/patterns_16.cpp
+- 3. Patterns/patterns_11.cpp
+- 3. Patterns/patterns_3.cpp
+- 3. Patterns/patterns_20.cpp
+- 3. Patterns/patterns_8.cpp
+- 3. Patterns/patterns_18.cpp
+- 3. Patterns/patterns_1.cpp
+- 3. Patterns/patterns_19.cpp
+- 3. Patterns/patterns_12.cpp
+- 3. Patterns/patterns_22.cpp
+- 3. Patterns/patterns_13.cpp
+- 3. Patterns/patterns_4.cpp
+- 3. Patterns/tempCodeRunnerFile.cpp
+- .github/workflows/index-files.yml
+- 11. 2d Arrays/2d_printrowsum.cpp
+- 11. 2d Arrays/2d_maxrowsum.cpp
+- 11. 2d Arrays/2d_arr_1.cpp
+- 11. 2d Arrays/2d_linear_search.cpp
+- 8. STL/map.cpp
+- 8. STL/queue.cpp
+- 8. STL/array.cpp
+- 8. STL/vectors.cpp
+- 8. STL/vectors_2.cpp
+- 8. STL/stack.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/checkprime.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/Palindromenumber.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/sumofalld.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/CountDigits.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/ReverseBits.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/CheckArmstrong.cpp
+- 0. Questions/Code Studio , GFG/2. Basics Maths/GCDorHCF.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/DataType.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/SwitchCasestatement.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/Sumofeven&odd.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/FindCharacterCase.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/if_else.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/FA-1ECE.cpp
+- 0. Questions/Code Studio , GFG/1. Basics/NthFibonacciNumber.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/PrintPascalTriangle.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/ThreeSum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/SubarrayswithXOR.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/MajorityElementnby3.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/4Sum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/Merge TwSortedArraysWithoutExtraSpace.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/MergeAllOverlappingIntervals.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/LongestSubarrayWithZeroSum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/MajorityElement.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/MaximumSubarraySum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/SpiralMatrix.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/SortAnArrayof0s1sand2s.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/NextGreaterPermutation.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/CountAllSubarraysWithGivenSum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/LongestSuccessiveElements.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/RotateTheMatrix.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/KadanesAlgorithmmaximumsubarraysum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/AlternateNumbers.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/TwoSum.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/SuperiorElements.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/Besttimetobuyandsellstock.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/zeromatrix.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Traffic.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/PrintLikeAWave.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/MoveZerostoEnd.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/CheckSortedArray.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Left-Rotate-Array.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/FindTheSingleElement.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Merge2SortedArray.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LinearSearch.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/RemoveDuplicatesfromSortedArray.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LargestElement.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/SecondLargestNumber.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LongestSubarrayWithSumK.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LongestSubarraywithsumkpositiveandnegative.cpp
+- 0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Rotatarray.cpp
+- 0. Questions/Code Studio , GFG/3. Sorting/bubblesort.cpp
+- 0. Questions/Code Studio , GFG/3. Sorting/insertionsort.cpp
+- 0. Questions/Code Studio , GFG/3. Sorting/selectionsort.cpp
+- 0. Questions/Code Studio , GFG/6. Recursion/RatInAMaze.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SearchInRotatedSortedArray.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/FirstandLastPositionofanElementInSortedArray.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SingleElementinaSortedArray.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/BinarySearch.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/Numberofoccurrence.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/CeilTheFloor.CPP
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/ImplementUpperBound.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SearchInsertPosition.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/ImplementLowerBound.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/Rotation.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SearchInARotatedSortedArrayII.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/MinimuminRotatedSortedArray.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/FindPeakElement.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/2. BS on Ans/FindNthRootOfM.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/2. BS on Ans/SquareRootofanumber.cpp
+- 0. Questions/Code Studio , GFG/5. Binary Search/2. BS on Ans/KokoEatingBananas.cpp
+- 0. Questions/LeetCode/1. Basic Maths/Palindromenumber.cpp
+- 0. Questions/LeetCode/1. Basic Maths/ReverseNumbers.cpp
+- 0. Questions/LeetCode/2. Arrays/3. Hard Questions/MajorityElementII.cpp
+- 0. Questions/LeetCode/2. Arrays/3. Hard Questions/MergeSortedArray.cpp
+- 0. Questions/LeetCode/2. Arrays/3. Hard Questions/4Sum.cpp
+- 0. Questions/LeetCode/2. Arrays/3. Hard Questions/3Sum.cpp
+- 0. Questions/LeetCode/2. Arrays/3. Hard Questions/MergeIntervals.cpp
+- 0. Questions/LeetCode/2. Arrays/3. Hard Questions/PascalTriangle.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/MajorityElement.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/SpiralMatrix.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/MaximumSubarray.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/SetMatrixZeroes.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/TwoSum.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/BestTimetoBuyandSellStock.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/SubarraySumEqualsK.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/RearrangeArrayElementsbySign.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/SortColors.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/RotateImage.cpp
+- 0. Questions/LeetCode/2. Arrays/2. Medium Questions/NextPermutation.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/ArrayIsSortedandRotated.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/MaxConsecutiveOnes.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/MoveZeroes.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/RotateArray.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/MissingNumber.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/RemoveDuplicatesfromSortedArray.cpp
+- 0. Questions/LeetCode/2. Arrays/1. Easy Questions/SingleNumber.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/FindMinimuminRotatedSortedArray.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SingleElementinaSortedArray.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SearchinRotatedSortedArray.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/BinarySearch.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SearchInsertPosition.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/FindFirstandLastPositionofElementinSortedArray.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SearchinRotatedSortedArrayII.cpp
+- 0. Questions/LeetCode/3. Binary Search/1. BS on 1D/FindPeakElement.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/Painter'sPartitionProblem.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/CapacityToShipPackagesWithinDDays.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/AllocateBooks.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/KthMissingPositiveNumber.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/SplitArrayLargestSum.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/AggressiveCows.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/KokoEatingBananas.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/FindtheSmallestDivisorGivenaThreshold.cpp
+- 0. Questions/LeetCode/3. Binary Search/2. BS on Ans/MinimumNumberofDaystoMakemBouquets.cpp
+- 0. Questions/LeetCode/4. Recursion And Backtracking/LetterCombinationsofaPhoneNumber.cpp
+- 0. Questions/LeetCode/4. Recursion And Backtracking/FibonacciNumber.cpp
+- 0. Questions/LeetCode/4. Recursion And Backtracking/Subsets.cpp
+- 0. Questions/LeetCode/4. Recursion And Backtracking/sort_array.cpp
+- 0. Questions/LeetCode/4. Recursion And Backtracking/RatInAMaze.cpp
+- 0. Questions/LeetCode/4. Recursion And Backtracking/Permutations.cpp
+- .git/description
+- .git/config
+- .git/index
+- .git/FETCH_HEAD
+- .git/HEAD
+- .git/shallow
+- .git/refs/remotes/origin/main
+- .git/refs/heads/main
+- .git/hooks/applypatch-msg.sample
+- .git/hooks/post-update.sample
+- .git/hooks/pre-applypatch.sample
+- .git/hooks/update.sample
+- .git/hooks/pre-push.sample
+- .git/hooks/prepare-commit-msg.sample
+- .git/hooks/pre-commit.sample
+- .git/hooks/pre-merge-commit.sample
+- .git/hooks/sendemail-validate.sample
+- .git/hooks/pre-receive.sample
+- .git/hooks/push-to-checkout.sample
+- .git/hooks/commit-msg.sample
+- .git/hooks/fsmonitor-watchman.sample
+- .git/hooks/pre-rebase.sample
+- .git/objects/pack/pack-98e0e3becdaccd66e3a2291d6327b7a4c9dacd8b.rev
+- .git/objects/pack/pack-98e0e3becdaccd66e3a2291d6327b7a4c9dacd8b.pack
+- .git/objects/pack/pack-98e0e3becdaccd66e3a2291d6327b7a4c9dacd8b.idx
+- .git/logs/HEAD
+- .git/logs/refs/remotes/origin/main
+- .git/logs/refs/heads/main
+- .git/info/exclude
 <!-- FILE_INDEX_END -->
