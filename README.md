@@ -296,6 +296,7 @@
     </details>
     <details>
     <summary>34</summary>
+      - [63e0f183c01bfd996a2ccafefa832cd09cb348](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/34/63e0f183c01bfd996a2ccafefa832cd09cb348)
       - [deeb497aadd104cbf8b417f88a74e7a84615af](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/34/deeb497aadd104cbf8b417f88a74e7a84615af)
     </details>
     <details>
@@ -496,6 +497,10 @@
       - [3ea9b79cdd30096f737911615abfe19d52389d](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/59/3ea9b79cdd30096f737911615abfe19d52389d)
       - [42c4b06016493b86a7e8939b7419c09d2bd173](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/59/42c4b06016493b86a7e8939b7419c09d2bd173)
       - [e365b949b9e1684001bcf153e3f33c1b454533](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/59/e365b949b9e1684001bcf153e3f33c1b454533)
+    </details>
+    <details>
+    <summary>5b</summary>
+      - [d0e6b05dfed4d6afd111a9d64fad518d4d4595](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/5b/d0e6b05dfed4d6afd111a9d64fad518d4d4595)
     </details>
     <details>
     <summary>5c</summary>
@@ -892,6 +897,7 @@
       - [78156600a0dc0b359b818e07c10674e93d9c75](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/a7/78156600a0dc0b359b818e07c10674e93d9c75)
       - [82ebea7739fbdfb988c96ec52b269795b21b9c](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/a7/82ebea7739fbdfb988c96ec52b269795b21b9c)
       - [9205a85de529fbadd6c839b8374e5cde917543](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/a7/9205a85de529fbadd6c839b8374e5cde917543)
+      - [c610a05fd62418c972a7e9300f5c8013c3ee09](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/a7/c610a05fd62418c972a7e9300f5c8013c3ee09)
       - [efd063b03d275f2aa752970a91c3ec26d65622](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/a7/efd063b03d275f2aa752970a91c3ec26d65622)
     </details>
     <details>
@@ -985,6 +991,7 @@
     <summary>b7</summary>
       - [0fdccd6ab335de4efa323ea36932c15d1ccbd4](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/b7/0fdccd6ab335de4efa323ea36932c15d1ccbd4)
       - [15465404c1230aca88c7603944bfdabd070b68](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/b7/15465404c1230aca88c7603944bfdabd070b68)
+      - [72f7a8a757c72ebda0d8cac8c0d5f7ef52449d](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/b7/72f7a8a757c72ebda0d8cac8c0d5f7ef52449d)
       - [ce6b04ba408af3a89463bd8f5d75fd5b5b2d70](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/.git/objects/b7/ce6b04ba408af3a89463bd8f5d75fd5b5b2d70)
     </details>
     <details>
@@ -1381,395 +1388,395 @@
   </details>
 </details>
 <details>
-<summary>0. Questions</summary>
+<summary>0_Questions</summary>
   <details>
-  <summary>Code Studio , GFG</summary>
+  <summary>Code_Studio_GFG</summary>
     <details>
-    <summary>1. Basics</summary>
-      - [DataType.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/DataType.cpp)
-      - [FA-1ECE.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/FA-1ECE.cpp)
-      - [FindCharacterCase.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/FindCharacterCase.cpp)
-      - [NthFibonacciNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/NthFibonacciNumber.cpp)
-      - [Sumofeven&odd.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/Sumofeven&odd.cpp)
-      - [SwitchCasestatement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/SwitchCasestatement.cpp)
-      - [if_else.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/1. Basics/if_else.cpp)
+    <summary>1_Basics</summary>
+      - [DataType.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/DataType.cpp)
+      - [FA-1ECE.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/FA-1ECE.cpp)
+      - [FindCharacterCase.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/FindCharacterCase.cpp)
+      - [NthFibonacciNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/NthFibonacciNumber.cpp)
+      - [Sumofeven&odd.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/Sumofeven&odd.cpp)
+      - [SwitchCasestatement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/SwitchCasestatement.cpp)
+      - [if_else.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/1_Basics/if_else.cpp)
     </details>
     <details>
-    <summary>2. Basics Maths</summary>
-      - [CheckArmstrong.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/CheckArmstrong.cpp)
-      - [CountDigits.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/CountDigits.cpp)
-      - [GCDorHCF.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/GCDorHCF.cpp)
-      - [Palindromenumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/Palindromenumber.cpp)
-      - [ReverseBits.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/ReverseBits.cpp)
-      - [checkprime.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/checkprime.cpp)
-      - [sumofalld.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/2. Basics Maths/sumofalld.cpp)
+    <summary>2_BasicsMaths</summary>
+      - [CheckArmstrong.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/CheckArmstrong.cpp)
+      - [CountDigits.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/CountDigits.cpp)
+      - [GCDorHCF.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/GCDorHCF.cpp)
+      - [Palindromenumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/Palindromenumber.cpp)
+      - [ReverseBits.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/ReverseBits.cpp)
+      - [checkprime.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/checkprime.cpp)
+      - [sumofalld.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/2_BasicsMaths/sumofalld.cpp)
     </details>
     <details>
-    <summary>3. Sorting</summary>
-      - [bubblesort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/3. Sorting/bubblesort.cpp)
-      - [insertionsort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/3. Sorting/insertionsort.cpp)
-      - [selectionsort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/3. Sorting/selectionsort.cpp)
+    <summary>3_Sorting</summary>
+      - [bubblesort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/3_Sorting/bubblesort.cpp)
+      - [insertionsort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/3_Sorting/insertionsort.cpp)
+      - [selectionsort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/3_Sorting/selectionsort.cpp)
     </details>
     <details>
-    <summary>4. Arrays</summary>
+    <summary>4_Arrays</summary>
       <details>
-      <summary>1. Easy Questions</summary>
-        - [CheckSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/CheckSortedArray.cpp)
-        - [FindTheSingleElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/FindTheSingleElement.cpp)
-        - [LargestElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LargestElement.cpp)
-        - [Left-Rotate-Array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Left-Rotate-Array.cpp)
-        - [LinearSearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LinearSearch.cpp)
-        - [LongestSubarrayWithSumK.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LongestSubarrayWithSumK.cpp)
-        - [LongestSubarraywithsumkpositiveandnegative.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/LongestSubarraywithsumkpositiveandnegative.cpp)
-        - [Merge2SortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Merge2SortedArray.cpp)
-        - [MoveZerostoEnd.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/MoveZerostoEnd.cpp)
-        - [PrintLikeAWave.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/PrintLikeAWave.cpp)
-        - [RemoveDuplicatesfromSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/RemoveDuplicatesfromSortedArray.cpp)
-        - [Rotatarray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Rotatarray.cpp)
-        - [SecondLargestNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/SecondLargestNumber.cpp)
-        - [Traffic.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/1. Easy Questions/Traffic.cpp)
+      <summary>1_Easy_Questions</summary>
+        - [CheckSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/CheckSortedArray.cpp)
+        - [FindTheSingleElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/FindTheSingleElement.cpp)
+        - [LargestElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/LargestElement.cpp)
+        - [Left-Rotate-Array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/Left-Rotate-Array.cpp)
+        - [LinearSearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/LinearSearch.cpp)
+        - [LongestSubarrayWithSumK.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/LongestSubarrayWithSumK.cpp)
+        - [LongestSubarraywithsumkpositiveandnegative.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/LongestSubarraywithsumkpositiveandnegative.cpp)
+        - [Merge2SortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/Merge2SortedArray.cpp)
+        - [MoveZerostoEnd.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/MoveZerostoEnd.cpp)
+        - [PrintLikeAWave.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/PrintLikeAWave.cpp)
+        - [RemoveDuplicatesfromSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/RemoveDuplicatesfromSortedArray.cpp)
+        - [Rotatarray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/Rotatarray.cpp)
+        - [SecondLargestNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/SecondLargestNumber.cpp)
+        - [Traffic.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/1_Easy_Questions/Traffic.cpp)
       </details>
       <details>
-      <summary>2. Medium Questions</summary>
-        - [AlternateNumbers.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/AlternateNumbers.cpp)
-        - [Besttimetobuyandsellstock.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/Besttimetobuyandsellstock.cpp)
-        - [CountAllSubarraysWithGivenSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/CountAllSubarraysWithGivenSum.cpp)
-        - [KadanesAlgorithmmaximumsubarraysum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/KadanesAlgorithmmaximumsubarraysum.cpp)
-        - [LongestSuccessiveElements.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/LongestSuccessiveElements.cpp)
-        - [MajorityElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/MajorityElement.cpp)
-        - [MaximumSubarraySum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/MaximumSubarraySum.cpp)
-        - [NextGreaterPermutation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/NextGreaterPermutation.cpp)
-        - [RotateTheMatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/RotateTheMatrix.cpp)
-        - [SortAnArrayof0s1sand2s.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/SortAnArrayof0s1sand2s.cpp)
-        - [SpiralMatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/SpiralMatrix.cpp)
-        - [SuperiorElements.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/SuperiorElements.cpp)
-        - [TwoSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/TwoSum.cpp)
-        - [zeromatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/2. Medium Questions/zeromatrix.cpp)
+      <summary>2_Medium_Questions</summary>
+        - [AlternateNumbers.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/AlternateNumbers.cpp)
+        - [Besttimetobuyandsellstock.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/Besttimetobuyandsellstock.cpp)
+        - [CountAllSubarraysWithGivenSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/CountAllSubarraysWithGivenSum.cpp)
+        - [KadanesAlgorithmmaximumsubarraysum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/KadanesAlgorithmmaximumsubarraysum.cpp)
+        - [LongestSuccessiveElements.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/LongestSuccessiveElements.cpp)
+        - [MajorityElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/MajorityElement.cpp)
+        - [MaximumSubarraySum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/MaximumSubarraySum.cpp)
+        - [NextGreaterPermutation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/NextGreaterPermutation.cpp)
+        - [RotateTheMatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/RotateTheMatrix.cpp)
+        - [SortAnArrayof0s1sand2s.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/SortAnArrayof0s1sand2s.cpp)
+        - [SpiralMatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/SpiralMatrix.cpp)
+        - [SuperiorElements.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/SuperiorElements.cpp)
+        - [TwoSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/TwoSum.cpp)
+        - [zeromatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/2_Medium_Questions/zeromatrix.cpp)
       </details>
       <details>
-      <summary>3. Hard Questions</summary>
-        - [4Sum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/4Sum.cpp)
-        - [LongestSubarrayWithZeroSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/LongestSubarrayWithZeroSum.cpp)
-        - [MajorityElementnby3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/MajorityElementnby3.cpp)
-        - [Merge TwSortedArraysWithoutExtraSpace.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/Merge TwSortedArraysWithoutExtraSpace.cpp)
-        - [MergeAllOverlappingIntervals.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/MergeAllOverlappingIntervals.cpp)
-        - [PrintPascalTriangle.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/PrintPascalTriangle.cpp)
-        - [SubarrayswithXOR.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/SubarrayswithXOR.cpp)
-        - [ThreeSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/4. Arrays/3. Hard Questions/ThreeSum.cpp)
-      </details>
-    </details>
-    <details>
-    <summary>5. Binary Search</summary>
-      <details>
-      <summary>1. BS on 1D</summary>
-        - [BinarySearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/BinarySearch.cpp)
-        - [CeilTheFloor.CPP](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/CeilTheFloor.CPP)
-        - [FindPeakElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/FindPeakElement.cpp)
-        - [FirstandLastPositionofanElementInSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/FirstandLastPositionofanElementInSortedArray.cpp)
-        - [ImplementLowerBound.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/ImplementLowerBound.cpp)
-        - [ImplementUpperBound.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/ImplementUpperBound.cpp)
-        - [MinimuminRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/MinimuminRotatedSortedArray.cpp)
-        - [Numberofoccurrence.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/Numberofoccurrence.cpp)
-        - [Rotation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/Rotation.cpp)
-        - [SearchInARotatedSortedArrayII.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SearchInARotatedSortedArrayII.cpp)
-        - [SearchInRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SearchInRotatedSortedArray.cpp)
-        - [SearchInsertPosition.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SearchInsertPosition.cpp)
-        - [SingleElementinaSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/1. BS on 1D/SingleElementinaSortedArray.cpp)
-      </details>
-      <details>
-      <summary>2. BS on Ans</summary>
-        - [FindNthRootOfM.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/2. BS on Ans/FindNthRootOfM.cpp)
-        - [KokoEatingBananas.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/2. BS on Ans/KokoEatingBananas.cpp)
-        - [SquareRootofanumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/5. Binary Search/2. BS on Ans/SquareRootofanumber.cpp)
-      </details>
-      <details>
-      <summary>3. BS on 2D</summary>
+      <summary>3_Hard_Questions</summary>
+        - [4Sum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/4Sum.cpp)
+        - [LongestSubarrayWithZeroSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/LongestSubarrayWithZeroSum.cpp)
+        - [MajorityElementnby3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/MajorityElementnby3.cpp)
+        - [Merge TwSortedArraysWithoutExtraSpace.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/Merge TwSortedArraysWithoutExtraSpace.cpp)
+        - [MergeAllOverlappingIntervals.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/MergeAllOverlappingIntervals.cpp)
+        - [PrintPascalTriangle.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/PrintPascalTriangle.cpp)
+        - [SubarrayswithXOR.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/SubarrayswithXOR.cpp)
+        - [ThreeSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/4_Arrays/3_Hard_Questions/ThreeSum.cpp)
       </details>
     </details>
     <details>
-    <summary>6. Recursion</summary>
-      - [RatInAMaze.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/Code Studio , GFG/6. Recursion/RatInAMaze.cpp)
+    <summary>5_Binary_Search</summary>
+      <details>
+      <summary>1_BS_on_1D</summary>
+        - [BinarySearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/BinarySearch.cpp)
+        - [CeilTheFloor.CPP](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/CeilTheFloor.CPP)
+        - [FindPeakElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/FindPeakElement.cpp)
+        - [FirstandLastPositionofanElementInSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/FirstandLastPositionofanElementInSortedArray.cpp)
+        - [ImplementLowerBound.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/ImplementLowerBound.cpp)
+        - [ImplementUpperBound.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/ImplementUpperBound.cpp)
+        - [MinimuminRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/MinimuminRotatedSortedArray.cpp)
+        - [Numberofoccurrence.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/Numberofoccurrence.cpp)
+        - [Rotation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/Rotation.cpp)
+        - [SearchInARotatedSortedArrayII.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/SearchInARotatedSortedArrayII.cpp)
+        - [SearchInRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/SearchInRotatedSortedArray.cpp)
+        - [SearchInsertPosition.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/SearchInsertPosition.cpp)
+        - [SingleElementinaSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/1_BS_on_1D/SingleElementinaSortedArray.cpp)
+      </details>
+      <details>
+      <summary>2_BS_on_Ans</summary>
+        - [FindNthRootOfM.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/2_BS_on_Ans/FindNthRootOfM.cpp)
+        - [KokoEatingBananas.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/2_BS_on_Ans/KokoEatingBananas.cpp)
+        - [SquareRootofanumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/5_Binary_Search/2_BS_on_Ans/SquareRootofanumber.cpp)
+      </details>
+      <details>
+      <summary>3_BS_on_2D</summary>
+      </details>
+    </details>
+    <details>
+    <summary>6_Recursion</summary>
+      - [RatInAMaze.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/Code_Studio_GFG/6_Recursion/RatInAMaze.cpp)
     </details>
   </details>
   <details>
   <summary>LeetCode</summary>
     <details>
-    <summary>1. Basic Maths</summary>
-      - [Palindromenumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/1. Basic Maths/Palindromenumber.cpp)
-      - [ReverseNumbers.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/1. Basic Maths/ReverseNumbers.cpp)
+    <summary>1_Basic Maths</summary>
+      - [Palindromenumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/1_Basic Maths/Palindromenumber.cpp)
+      - [ReverseNumbers.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/1_Basic Maths/ReverseNumbers.cpp)
     </details>
     <details>
-    <summary>2. Arrays</summary>
+    <summary>2_Arrays</summary>
       <details>
-      <summary>1. Easy Questions</summary>
-        - [ArrayIsSortedandRotated.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/ArrayIsSortedandRotated.cpp)
-        - [MaxConsecutiveOnes.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/MaxConsecutiveOnes.cpp)
-        - [MissingNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/MissingNumber.cpp)
-        - [MoveZeroes.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/MoveZeroes.cpp)
-        - [RemoveDuplicatesfromSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/RemoveDuplicatesfromSortedArray.cpp)
-        - [RotateArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/RotateArray.cpp)
-        - [SingleNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/1. Easy Questions/SingleNumber.cpp)
+      <summary>1_Easy_Questions</summary>
+        - [ArrayIsSortedandRotated.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/ArrayIsSortedandRotated.cpp)
+        - [MaxConsecutiveOnes.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/MaxConsecutiveOnes.cpp)
+        - [MissingNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/MissingNumber.cpp)
+        - [MoveZeroes.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/MoveZeroes.cpp)
+        - [RemoveDuplicatesfromSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/RemoveDuplicatesfromSortedArray.cpp)
+        - [RotateArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/RotateArray.cpp)
+        - [SingleNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/1_Easy_Questions/SingleNumber.cpp)
       </details>
       <details>
-      <summary>2. Medium Questions</summary>
-        - [BestTimetoBuyandSellStock.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/BestTimetoBuyandSellStock.cpp)
-        - [MajorityElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/MajorityElement.cpp)
-        - [MaximumSubarray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/MaximumSubarray.cpp)
-        - [NextPermutation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/NextPermutation.cpp)
-        - [RearrangeArrayElementsbySign.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/RearrangeArrayElementsbySign.cpp)
-        - [RotateImage.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/RotateImage.cpp)
-        - [SetMatrixZeroes.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/SetMatrixZeroes.cpp)
-        - [SortColors.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/SortColors.cpp)
-        - [SpiralMatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/SpiralMatrix.cpp)
-        - [SubarraySumEqualsK.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/SubarraySumEqualsK.cpp)
-        - [TwoSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/2. Medium Questions/TwoSum.cpp)
+      <summary>2_Medium_Questions</summary>
+        - [BestTimetoBuyandSellStock.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/BestTimetoBuyandSellStock.cpp)
+        - [MajorityElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/MajorityElement.cpp)
+        - [MaximumSubarray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/MaximumSubarray.cpp)
+        - [NextPermutation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/NextPermutation.cpp)
+        - [RearrangeArrayElementsbySign.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/RearrangeArrayElementsbySign.cpp)
+        - [RotateImage.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/RotateImage.cpp)
+        - [SetMatrixZeroes.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/SetMatrixZeroes.cpp)
+        - [SortColors.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/SortColors.cpp)
+        - [SpiralMatrix.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/SpiralMatrix.cpp)
+        - [SubarraySumEqualsK.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/SubarraySumEqualsK.cpp)
+        - [TwoSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/2_Medium_Questions/TwoSum.cpp)
       </details>
       <details>
-      <summary>3. Hard Questions</summary>
-        - [3Sum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/3. Hard Questions/3Sum.cpp)
-        - [4Sum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/3. Hard Questions/4Sum.cpp)
-        - [MajorityElementII.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/3. Hard Questions/MajorityElementII.cpp)
-        - [MergeIntervals.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/3. Hard Questions/MergeIntervals.cpp)
-        - [MergeSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/3. Hard Questions/MergeSortedArray.cpp)
-        - [PascalTriangle.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/2. Arrays/3. Hard Questions/PascalTriangle.cpp)
-      </details>
-    </details>
-    <details>
-    <summary>3. Binary Search</summary>
-      <details>
-      <summary>1. BS on 1D</summary>
-        - [BinarySearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/BinarySearch.cpp)
-        - [FindFirstandLastPositionofElementinSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/FindFirstandLastPositionofElementinSortedArray.cpp)
-        - [FindMinimuminRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/FindMinimuminRotatedSortedArray.cpp)
-        - [FindPeakElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/FindPeakElement.cpp)
-        - [SearchInsertPosition.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SearchInsertPosition.cpp)
-        - [SearchinRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SearchinRotatedSortedArray.cpp)
-        - [SearchinRotatedSortedArrayII.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SearchinRotatedSortedArrayII.cpp)
-        - [SingleElementinaSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/1. BS on 1D/SingleElementinaSortedArray.cpp)
-      </details>
-      <details>
-      <summary>2. BS on Ans</summary>
-        - [AggressiveCows.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/AggressiveCows.cpp)
-        - [AllocateBooks.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/AllocateBooks.cpp)
-        - [CapacityToShipPackagesWithinDDays.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/CapacityToShipPackagesWithinDDays.cpp)
-        - [FindtheSmallestDivisorGivenaThreshold.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/FindtheSmallestDivisorGivenaThreshold.cpp)
-        - [KokoEatingBananas.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/KokoEatingBananas.cpp)
-        - [KthMissingPositiveNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/KthMissingPositiveNumber.cpp)
-        - [MinimumNumberofDaystoMakemBouquets.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/MinimumNumberofDaystoMakemBouquets.cpp)
-        - [Painter'sPartitionProblem.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/Painter'sPartitionProblem.cpp)
-        - [SplitArrayLargestSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/3. Binary Search/2. BS on Ans/SplitArrayLargestSum.cpp)
-      </details>
-      <details>
-      <summary>3. BS on 2D</summary>
+      <summary>3_Hard_Questions</summary>
+        - [3Sum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/3_Hard_Questions/3Sum.cpp)
+        - [4Sum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/3_Hard_Questions/4Sum.cpp)
+        - [MajorityElementII.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/3_Hard_Questions/MajorityElementII.cpp)
+        - [MergeIntervals.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/3_Hard_Questions/MergeIntervals.cpp)
+        - [MergeSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/3_Hard_Questions/MergeSortedArray.cpp)
+        - [PascalTriangle.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/2_Arrays/3_Hard_Questions/PascalTriangle.cpp)
       </details>
     </details>
     <details>
-    <summary>4. Recursion And Backtracking</summary>
-      - [FibonacciNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/4. Recursion And Backtracking/FibonacciNumber.cpp)
-      - [LetterCombinationsofaPhoneNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/4. Recursion And Backtracking/LetterCombinationsofaPhoneNumber.cpp)
-      - [Permutations.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/4. Recursion And Backtracking/Permutations.cpp)
-      - [RatInAMaze.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/4. Recursion And Backtracking/RatInAMaze.cpp)
-      - [Subsets.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/4. Recursion And Backtracking/Subsets.cpp)
-      - [sort_array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0. Questions/LeetCode/4. Recursion And Backtracking/sort_array.cpp)
+    <summary>3_Binary_Search</summary>
+      <details>
+      <summary>1_BS_on_1D</summary>
+        - [BinarySearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/BinarySearch.cpp)
+        - [FindFirstandLastPositionofElementinSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/FindFirstandLastPositionofElementinSortedArray.cpp)
+        - [FindMinimuminRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/FindMinimuminRotatedSortedArray.cpp)
+        - [FindPeakElement.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/FindPeakElement.cpp)
+        - [SearchInsertPosition.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/SearchInsertPosition.cpp)
+        - [SearchinRotatedSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/SearchinRotatedSortedArray.cpp)
+        - [SearchinRotatedSortedArrayII.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/SearchinRotatedSortedArrayII.cpp)
+        - [SingleElementinaSortedArray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/1_BS_on_1D/SingleElementinaSortedArray.cpp)
+      </details>
+      <details>
+      <summary>2_BS_on_Ans</summary>
+        - [AggressiveCows.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/AggressiveCows.cpp)
+        - [AllocateBooks.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/AllocateBooks.cpp)
+        - [CapacityToShipPackagesWithinDDays.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/CapacityToShipPackagesWithinDDays.cpp)
+        - [FindtheSmallestDivisorGivenaThreshold.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/FindtheSmallestDivisorGivenaThreshold.cpp)
+        - [KokoEatingBananas.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/KokoEatingBananas.cpp)
+        - [KthMissingPositiveNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/KthMissingPositiveNumber.cpp)
+        - [MinimumNumberofDaystoMakemBouquets.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/MinimumNumberofDaystoMakemBouquets.cpp)
+        - [Painter'sPartitionProblem.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/Painter'sPartitionProblem.cpp)
+        - [SplitArrayLargestSum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/3_Binary_Search/2_BS_on_Ans/SplitArrayLargestSum.cpp)
+      </details>
+      <details>
+      <summary>3_BS_on_2D</summary>
+      </details>
+    </details>
+    <details>
+    <summary>4_Recursion_And_Backtracking</summary>
+      - [FibonacciNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/4_Recursion_And_Backtracking/FibonacciNumber.cpp)
+      - [LetterCombinationsofaPhoneNumber.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/4_Recursion_And_Backtracking/LetterCombinationsofaPhoneNumber.cpp)
+      - [Permutations.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/4_Recursion_And_Backtracking/Permutations.cpp)
+      - [RatInAMaze.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/4_Recursion_And_Backtracking/RatInAMaze.cpp)
+      - [Subsets.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/4_Recursion_And_Backtracking/Subsets.cpp)
+      - [sort_array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/0_Questions/LeetCode/4_Recursion_And_Backtracking/sort_array.cpp)
     </details>
   </details>
 </details>
 <details>
-<summary>1. Basics, Operators and Variables</summary>
-  - [hello.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1. Basics, Operators and Variables/hello.cpp)
-  - [operators.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1. Basics, Operators and Variables/operators.cpp)
-  - [typecasting.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1. Basics, Operators and Variables/typecasting.cpp)
-  - [variables.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1. Basics, Operators and Variables/variables.cpp)
+<summary>10_Char_Arrays_and_Strings</summary>
+  - [char_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10_Char_Arrays_and_Strings/char_1.cpp)
+  - [char_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10_Char_Arrays_and_Strings/char_2.cpp)
+  - [char_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10_Char_Arrays_and_Strings/char_3.cpp)
+  - [char_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10_Char_Arrays_and_Strings/char_4.cpp)
+  - [char_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10_Char_Arrays_and_Strings/char_6.cpp)
 </details>
 <details>
-<summary>10. Char Arrays and Strings</summary>
-  - [char_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10. Char Arrays and Strings/char_1.cpp)
-  - [char_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10. Char Arrays and Strings/char_2.cpp)
-  - [char_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10. Char Arrays and Strings/char_3.cpp)
-  - [char_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10. Char Arrays and Strings/char_4.cpp)
-  - [char_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/10. Char Arrays and Strings/char_6.cpp)
+<summary>11_2d_Arrays</summary>
+  - [2d_arr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11_2d_Arrays/2d_arr_1.cpp)
+  - [2d_linear_search.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11_2d_Arrays/2d_linear_search.cpp)
+  - [2d_maxrowsum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11_2d_Arrays/2d_maxrowsum.cpp)
+  - [2d_printrowsum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11_2d_Arrays/2d_printrowsum.cpp)
 </details>
 <details>
-<summary>11. 2d Arrays</summary>
-  - [2d_arr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11. 2d Arrays/2d_arr_1.cpp)
-  - [2d_linear_search.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11. 2d Arrays/2d_linear_search.cpp)
-  - [2d_maxrowsum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11. 2d Arrays/2d_maxrowsum.cpp)
-  - [2d_printrowsum.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/11. 2d Arrays/2d_printrowsum.cpp)
+<summary>12_Hashing</summary>
+  - [hashing_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/12_Hashing/hashing_1.cpp)
+  - [hashmaps_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/12_Hashing/hashmaps_1.cpp)
+  - [hasing_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/12_Hashing/hasing_2.cpp)
 </details>
 <details>
-<summary>12 . Hashing</summary>
-  - [hashing_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/12 . Hashing/hashing_1.cpp)
-  - [hashmaps_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/12 . Hashing/hashmaps_1.cpp)
-  - [hasing_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/12 . Hashing/hasing_2.cpp)
+<summary>13_Pointers</summary>
+  - [doubleptr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13_Pointers/doubleptr_1.cpp)
+  - [ptr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13_Pointers/ptr_1.cpp)
+  - [ptr_arrays.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13_Pointers/ptr_arrays.cpp)
+  - [ptr_char.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13_Pointers/ptr_char.cpp)
+  - [ptr_functions_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13_Pointers/ptr_functions_1.cpp)
+  - [ptr_functioons_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13_Pointers/ptr_functioons_2.cpp)
 </details>
 <details>
-<summary>13 . Pointers</summary>
-  - [doubleptr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13 . Pointers/doubleptr_1.cpp)
-  - [ptr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13 . Pointers/ptr_1.cpp)
-  - [ptr_arrays.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13 . Pointers/ptr_arrays.cpp)
-  - [ptr_char.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13 . Pointers/ptr_char.cpp)
-  - [ptr_functions_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13 . Pointers/ptr_functions_1.cpp)
-  - [ptr_functioons_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/13 . Pointers/ptr_functioons_2.cpp)
+<summary>14 _Reference_Variable_And_Memory</summary>
+  - [default_argument.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/default_argument.cpp)
+  - [dyanmic_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/dyanmic_2.cpp)
+  - [dyanmic_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/dyanmic_3.cpp)
+  - [dynamic_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/dynamic_1.cpp)
+  - [inlinefunction.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/inlinefunction.cpp)
+  - [macros.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/macros.cpp)
+  - [ref_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/ref_1.cpp)
+  - [ref_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 _Reference_Variable_And_Memory/ref_2.cpp)
 </details>
 <details>
-<summary>14 . Reference Variable And Memory</summary>
-  - [default_argument.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/default_argument.cpp)
-  - [dyanmic_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/dyanmic_2.cpp)
-  - [dyanmic_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/dyanmic_3.cpp)
-  - [dynamic_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/dynamic_1.cpp)
-  - [inlinefunction.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/inlinefunction.cpp)
-  - [macros.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/macros.cpp)
-  - [ref_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/ref_1.cpp)
-  - [ref_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/14 . Reference Variable And Memory/ref_2.cpp)
+<summary>15_Recursion</summary>
+  - [merge_sort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/merge_sort.cpp)
+  - [quick_sort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/quick_sort.cpp)
+  - [recursion_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_1.cpp)
+  - [recursion_10.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_10.cpp)
+  - [recursion_11.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_11.cpp)
+  - [recursion_12.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_12.cpp)
+  - [recursion_13.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_13.cpp)
+  - [recursion_14_bubblesort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_14_bubblesort.cpp)
+  - [recursion_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_2.cpp)
+  - [recursion_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_3.cpp)
+  - [recursion_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_4.cpp)
+  - [recursion_5.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_5.cpp)
+  - [recursion_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_6.cpp)
+  - [recursion_8_linearsearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_8_linearsearch.cpp)
+  - [recursion_9_binarysearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursion_9_binarysearch.cpp)
+  - [recursiopn_7.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15_Recursion/recursiopn_7.cpp)
 </details>
 <details>
-<summary>15. Recursion</summary>
-  - [merge_sort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/merge_sort.cpp)
-  - [quick_sort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/quick_sort.cpp)
-  - [recursion_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_1.cpp)
-  - [recursion_10.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_10.cpp)
-  - [recursion_11.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_11.cpp)
-  - [recursion_12.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_12.cpp)
-  - [recursion_13.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_13.cpp)
-  - [recursion_14_bubblesort.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_14_bubblesort.cpp)
-  - [recursion_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_2.cpp)
-  - [recursion_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_3.cpp)
-  - [recursion_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_4.cpp)
-  - [recursion_5.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_5.cpp)
-  - [recursion_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_6.cpp)
-  - [recursion_8_linearsearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_8_linearsearch.cpp)
-  - [recursion_9_binarysearch.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursion_9_binarysearch.cpp)
-  - [recursiopn_7.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/15. Recursion/recursiopn_7.cpp)
+<summary>16_OOPS</summary>
+  - [oops_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/16_OOPS/oops_1.cpp)
+  - [oops_2_encapsulation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/16_OOPS/oops_2_encapsulation.cpp)
+  - [oops_3_inheritance.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/16_OOPS/oops_3_inheritance.cpp)
 </details>
 <details>
-<summary>16. OOPS</summary>
-  - [oops_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/16. OOPS/oops_1.cpp)
-  - [oops_2_encapsulation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/16. OOPS/oops_2_encapsulation.cpp)
-  - [oops_3_inheritance.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/16. OOPS/oops_3_inheritance.cpp)
+<summary>17_Linked List</summary>
+  - [DLL_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17_Linked List/DLL_1.cpp)
+  - [LL_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17_Linked List/LL_1.cpp)
+  - [LL_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17_Linked List/LL_2.cpp)
+  - [add_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17_Linked List/add_1.cpp)
 </details>
 <details>
-<summary>17. Linked List</summary>
-  - [DLL_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17. Linked List/DLL_1.cpp)
-  - [LL_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17. Linked List/LL_1.cpp)
-  - [LL_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17. Linked List/LL_2.cpp)
-  - [add_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/17. Linked List/add_1.cpp)
+<summary>18_Char_Arrays_and_Strings_New</summary>
+  - [KMP-algo.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/KMP-algo.cpp)
+  - [allupeercase.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/allupeercase.cpp)
+  - [char_arr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/char_arr_1.cpp)
+  - [checkpalindrome.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/checkpalindrome.cpp)
+  - [insertspace.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/insertspace.cpp)
+  - [lenofchararr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/lenofchararr.cpp)
+  - [reverseachararr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18_Char_Arrays_and_Strings_New/reverseachararr.cpp)
 </details>
 <details>
-<summary>18. Char Arrays and Strings - New</summary>
-  - [KMP-algo.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/KMP-algo.cpp)
-  - [allupeercase.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/allupeercase.cpp)
-  - [char_arr_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/char_arr_1.cpp)
-  - [checkpalindrome.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/checkpalindrome.cpp)
-  - [insertspace.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/insertspace.cpp)
-  - [lenofchararr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/lenofchararr.cpp)
-  - [reverseachararr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/18. Char Arrays and Strings - New/reverseachararr.cpp)
+<summary>19_Stacks</summary>
+  - [NStackInArr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19_Stacks/NStackInArr.cpp)
+  - [getNSL.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19_Stacks/getNSL.cpp)
+  - [gteNSR.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19_Stacks/gteNSR.cpp)
+  - [stacks_LL.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19_Stacks/stacks_LL.cpp)
+  - [stacks_arr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19_Stacks/stacks_arr.cpp)
 </details>
 <details>
-<summary>19. Stacks</summary>
-  - [NStackInArr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19. Stacks/NStackInArr.cpp)
-  - [getNSL.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19. Stacks/getNSL.cpp)
-  - [gteNSR.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19. Stacks/gteNSR.cpp)
-  - [stacks_LL.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19. Stacks/stacks_LL.cpp)
-  - [stacks_arr.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/19. Stacks/stacks_arr.cpp)
+<summary>1_Basics_Operators_and_Variables</summary>
+  - [hello.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1_Basics_Operators_and_Variables/hello.cpp)
+  - [operators.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1_Basics_Operators_and_Variables/operators.cpp)
+  - [typecasting.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1_Basics_Operators_and_Variables/typecasting.cpp)
+  - [variables.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/1_Basics_Operators_and_Variables/variables.cpp)
 </details>
 <details>
-<summary>2. Conditions And Loops</summary>
-  - [if-else.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/if-else.cpp)
-  - [if-else_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/if-else_3.cpp)
-  - [if-else_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/if-else_4.cpp)
-  - [is-else_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/is-else_2.cpp)
-  - [while-loop_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/while-loop_1.cpp)
-  - [while-loop_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/while-loop_2.cpp)
-  - [while-loop_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/while-loop_3.cpp)
-  - [while-loop_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2. Conditions And Loops/while-loop_4.cpp)
+<summary>2_Conditions_And_Loops</summary>
+  - [if-else.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/if-else.cpp)
+  - [if-else_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/if-else_3.cpp)
+  - [if-else_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/if-else_4.cpp)
+  - [is-else_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/is-else_2.cpp)
+  - [while-loop_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/while-loop_1.cpp)
+  - [while-loop_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/while-loop_2.cpp)
+  - [while-loop_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/while-loop_3.cpp)
+  - [while-loop_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/2_Conditions_And_Loops/while-loop_4.cpp)
 </details>
 <details>
-<summary>3. Patterns</summary>
-  - [pattern_15.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/pattern_15.cpp)
-  - [patterns_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_1.cpp)
-  - [patterns_10.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_10.cpp)
-  - [patterns_11.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_11.cpp)
-  - [patterns_12.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_12.cpp)
-  - [patterns_13.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_13.cpp)
-  - [patterns_14.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_14.cpp)
-  - [patterns_16.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_16.cpp)
-  - [patterns_17.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_17.cpp)
-  - [patterns_18.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_18.cpp)
-  - [patterns_19.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_19.cpp)
-  - [patterns_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_2.cpp)
-  - [patterns_20.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_20.cpp)
-  - [patterns_21.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_21.cpp)
-  - [patterns_22.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_22.cpp)
-  - [patterns_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_3.cpp)
-  - [patterns_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_4.cpp)
-  - [patterns_5.CPP](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_5.CPP)
-  - [patterns_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_6.cpp)
-  - [patterns_7.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_7.cpp)
-  - [patterns_8.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_8.cpp)
-  - [patterns_9.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/patterns_9.cpp)
-  - [tempCodeRunnerFile.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3. Patterns/tempCodeRunnerFile.cpp)
+<summary>3_Patterns</summary>
+  - [pattern_15.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/pattern_15.cpp)
+  - [patterns_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_1.cpp)
+  - [patterns_10.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_10.cpp)
+  - [patterns_11.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_11.cpp)
+  - [patterns_12.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_12.cpp)
+  - [patterns_13.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_13.cpp)
+  - [patterns_14.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_14.cpp)
+  - [patterns_16.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_16.cpp)
+  - [patterns_17.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_17.cpp)
+  - [patterns_18.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_18.cpp)
+  - [patterns_19.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_19.cpp)
+  - [patterns_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_2.cpp)
+  - [patterns_20.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_20.cpp)
+  - [patterns_21.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_21.cpp)
+  - [patterns_22.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_22.cpp)
+  - [patterns_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_3.cpp)
+  - [patterns_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_4.cpp)
+  - [patterns_5.CPP](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_5.CPP)
+  - [patterns_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_6.cpp)
+  - [patterns_7.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_7.cpp)
+  - [patterns_8.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_8.cpp)
+  - [patterns_9.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/patterns_9.cpp)
+  - [tempCodeRunnerFile.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/3_Patterns/tempCodeRunnerFile.cpp)
 </details>
 <details>
-<summary>4. For Loops</summary>
-  - [for-loops_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4. For Loops/for-loops_1.cpp)
-  - [for-loops_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4. For Loops/for-loops_2.cpp)
-  - [for-loops_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4. For Loops/for-loops_3.cpp)
-  - [for-loops_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4. For Loops/for-loops_4.cpp)
+<summary>4_For_Loops</summary>
+  - [for-loops_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4_For_Loops/for-loops_1.cpp)
+  - [for-loops_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4_For_Loops/for-loops_2.cpp)
+  - [for-loops_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4_For_Loops/for-loops_3.cpp)
+  - [for-loops_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/4_For_Loops/for-loops_4.cpp)
 </details>
 <details>
-<summary>5. Bits</summary>
-  - [binary-to-decimal.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/5. Bits/binary-to-decimal.cpp)
-  - [decimal-to-binary.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/5. Bits/decimal-to-binary.cpp)
+<summary>5_Bits</summary>
+  - [binary-to-decimal.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/5_Bits/binary-to-decimal.cpp)
+  - [decimal-to-binary.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/5_Bits/decimal-to-binary.cpp)
 </details>
 <details>
-<summary>6. Switch And Functions</summary>
-  - [function_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/function_1.cpp)
-  - [function_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/function_2.cpp)
-  - [function_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/function_3.cpp)
-  - [function_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/function_4.cpp)
-  - [function_5.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/function_5.cpp)
-  - [function_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/function_6.cpp)
-  - [switch_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/switch_1.cpp)
-  - [switch_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/switch_2.cpp)
-  - [switch_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6. Switch And Functions/switch_3.cpp)
+<summary>6_Switch_And_Functions</summary>
+  - [function_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/function_1.cpp)
+  - [function_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/function_2.cpp)
+  - [function_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/function_3.cpp)
+  - [function_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/function_4.cpp)
+  - [function_5.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/function_5.cpp)
+  - [function_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/function_6.cpp)
+  - [switch_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/switch_1.cpp)
+  - [switch_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/switch_2.cpp)
+  - [switch_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/6_Switch_And_Functions/switch_3.cpp)
 </details>
 <details>
-<summary>7. Arrays</summary>
-  - [aggressive_cows.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/aggressive_cows.cpp)
-  - [arrays_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/arrays_1.cpp)
-  - [arrays_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/arrays_2.cpp)
-  - [arrays_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/arrays_3.cpp)
-  - [arrays_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/arrays_4.cpp)
-  - [arrays_5.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/arrays_5.cpp)
-  - [arrays_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/arrays_6.cpp)
-  - [binary_search_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/binary_search_1.cpp)
-  - [book_allocation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/book_allocation.cpp)
-  - [bubble_sort_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/bubble_sort_1.cpp)
-  - [bubble_sort_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/bubble_sort_2.cpp)
-  - [first_last_occurence.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/first_last_occurence.cpp)
-  - [insertion_sort_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/insertion_sort_1.cpp)
-  - [insertion_sort_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/insertion_sort_2.cpp)
-  - [linear_search.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/linear_search.cpp)
-  - [painter_partition.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/painter_partition.cpp)
-  - [pivot_element_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/pivot_element_1.cpp)
-  - [pivot_element_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/pivot_element_2.cpp)
-  - [reversearray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/reversearray.cpp)
-  - [selection_sort_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/selection_sort_1.cpp)
-  - [swapalternate.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/swapalternate.cpp)
-  - [zerosandone.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7. Arrays/zerosandone.cpp)
+<summary>7_Arrays</summary>
+  - [aggressive_cows.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/aggressive_cows.cpp)
+  - [arrays_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/arrays_1.cpp)
+  - [arrays_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/arrays_2.cpp)
+  - [arrays_3.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/arrays_3.cpp)
+  - [arrays_4.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/arrays_4.cpp)
+  - [arrays_5.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/arrays_5.cpp)
+  - [arrays_6.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/arrays_6.cpp)
+  - [binary_search_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/binary_search_1.cpp)
+  - [book_allocation.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/book_allocation.cpp)
+  - [bubble_sort_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/bubble_sort_1.cpp)
+  - [bubble_sort_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/bubble_sort_2.cpp)
+  - [first_last_occurence.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/first_last_occurence.cpp)
+  - [insertion_sort_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/insertion_sort_1.cpp)
+  - [insertion_sort_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/insertion_sort_2.cpp)
+  - [linear_search.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/linear_search.cpp)
+  - [painter_partition.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/painter_partition.cpp)
+  - [pivot_element_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/pivot_element_1.cpp)
+  - [pivot_element_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/pivot_element_2.cpp)
+  - [reversearray.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/reversearray.cpp)
+  - [selection_sort_1.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/selection_sort_1.cpp)
+  - [swapalternate.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/swapalternate.cpp)
+  - [zerosandone.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/7_Arrays/zerosandone.cpp)
 </details>
 <details>
-<summary>8. STL</summary>
-  - [array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8. STL/array.cpp)
-  - [map.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8. STL/map.cpp)
-  - [queue.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8. STL/queue.cpp)
-  - [stack.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8. STL/stack.cpp)
-  - [vectors.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8. STL/vectors.cpp)
-  - [vectors_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8. STL/vectors_2.cpp)
+<summary>8_STL</summary>
+  - [array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8_STL/array.cpp)
+  - [map.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8_STL/map.cpp)
+  - [queue.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8_STL/queue.cpp)
+  - [stack.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8_STL/stack.cpp)
+  - [vectors.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8_STL/vectors.cpp)
+  - [vectors_2.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/8_STL/vectors_2.cpp)
 </details>
 <details>
-<summary>9. Array Questions</summary>
-  - [merge2sortedarrays.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/9. Array Questions/merge2sortedarrays.cpp)
-  - [reverse_array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/9. Array Questions/reverse_array.cpp)
+<summary>9_Array_Questions</summary>
+  - [merge2sortedarrays.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/9_Array_Questions/merge2sortedarrays.cpp)
+  - [reverse_array.cpp](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/9_Array_Questions/reverse_array.cpp)
 </details>
 - [Timestamp.txt.txt](https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms/blob/main/Timestamp.txt.txt)

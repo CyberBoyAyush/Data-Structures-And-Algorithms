@@ -6,7 +6,6 @@ import datetime
 REPO_URL = "https://github.com/CyberBoyAyush/Data-Structures-And-Algorithms"  # Update with your repo URL
 EXCLUDE_FILES = ["README.md", "index_files.py", ".gitignore", ".vscode"]
 EXCLUDE_EXTENSIONS = [".exe"]
-GITHUB_RAW_URL = "https://raw.githubusercontent.com/CyberBoyAyush/Data-Structures-And-Algorithms/main/"  # Update with your raw repo URL
 
 # Update last updated timestamp
 now = datetime.datetime.now()
