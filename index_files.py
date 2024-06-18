@@ -24,7 +24,7 @@ def get_filename(folder: str) -> str:
 def get_sorted_files(folder: t.Optional[str]):
     """This sorts the inner files in ascending order"""
     files = os.listdir(folder)
-    files = [x for x in files if x not in [".git", "README.md", "readme_generator.py", ".gitignore", ".vscode"]]
+    files = [x for x in files if x not in [".git", "README.md", "index_files.py", ".gitignore", ".vscode"]]
     files = [x for x in files if not x.endswith(".exe")]
     if folder is not None and all(x.split("_")[0].isdigit() for x in files):
         files = sorted(files, key=lambda x: int(x.split("_")[0]))
@@ -46,18 +46,19 @@ def get_name_and_path(folder: t.Optional[str] = None, level: int = 0) -> None:
             folder = folder.split("\\")[-1]
 
         filename = get_filename(folder or file)
-        # print(folder, filename, file)
+        
         if file.endswith(".cpp"):
             filepath = filepath.replace("\\", "/")
-            markup += f"{level * '  '}- [{filename}]({filepath})\n"
+            markup += f"{'  ' * level}- [{file}]({filepath})\n"
     
         if os.path.isdir(filepath):
-            # print(folder)
             if folder not in done_levels and level != 0:
-                markup += f"{level * '  '}- {filename}\n"
+                markup += f"{'  ' * level}<details>\n"
+                markup += f"{'  ' * (level + 1)}<summary>{filename}</summary>\n"
                 done_levels.append(folder)
             get_name_and_path(filepath, level + 1)
-            continue
+            if level != 0:
+                markup += f"{'  ' * level}</details>\n"
 
 def get_extra_info():
     path = pathlib.Path('./')
