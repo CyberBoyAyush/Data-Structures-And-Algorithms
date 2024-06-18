@@ -26,10 +26,11 @@ def get_sorted_files(folder: t.Optional[str]):
     files = os.listdir(folder)
     files = [x for x in files if x not in [".git", "README.md", "index_files.py", ".gitignore", ".vscode"]]
     files = [x for x in files if not x.endswith(".exe")]
-    if folder is not None and all(x.split("_")[0].isdigit() for x in files):
-        files = sorted(files, key=lambda x: int(x.split("_")[0]))
-    elif folder is None:
-        files = sorted(files, key=lambda x: int(x.split("_")[0]))
+    
+    if folder is not None:
+        files = sorted(files, key=lambda x: int(x.split("_")[0]) if x.split("_")[0].isdigit() else float('inf'))
+    else:
+        files = sorted(files, key=lambda x: int(x.split("_")[0]) if x.split("_")[0].isdigit() else float('inf'))
 
     return files
 
