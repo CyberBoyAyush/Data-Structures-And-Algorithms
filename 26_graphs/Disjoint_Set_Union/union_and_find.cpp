@@ -1,8 +1,9 @@
+// Reusable code for Disjoint set union DSU
 #include<bits/stdc++.h>
 #include<vector>
 using namespace std;
 
-
+class UnionFind {
     vector<int> parent;
     vector<int> rank;
     
@@ -27,3 +28,4 @@ using namespace std;
             rank[y_parent]++;
         }
     }
+};
