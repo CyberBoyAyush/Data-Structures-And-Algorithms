@@ -98,3 +98,33 @@ int findWays(vector<int>& arr, int sum) {
     // Return the result for the full array and given sum
     return dp[n - 1][sum];
 }
+
+// Appraoch 4 -> Tabulation + Space Optimized
+// Time Complexity: O(n*sum)
+// Space Complexity: O(sum)
+
+int mod = 1e9 + 7;
+class Solution {
+public:
+    int countSubsets(vector<int>& arr, int n, int sum) {
+        vector<int> dp(sum + 1, 0);
+        dp[0] = 1;
+        
+        if (arr[0] <= sum) {
+            dp[arr[0]] = 1;
+        }
+        
+        for (int idx = 1; idx < n; idx++) {
+            for (int target = sum; target >= 0; target--) {
+                int notTake = dp[target] % mod;
+                int take = 0;
+                if (arr[idx] <= target) {
+                    take = dp[target - arr[idx]] % mod;
+                }
+                dp[target] = (notTake + take) % mod;
+            }
+        }
+        
+        return dp[sum];
+    }
+};
